@@ -9,6 +9,12 @@ dengan role Admin dan User.
 - Wardina Darmawa (202312040) – Admin
 - Sardilla (202312071) – User
 
+### Akun Login
+- Admin :admin@gmail.com
+  Password:admin123
+- User :user@gmail.com
+  Password :user123
+  
 ### Pertemuan
 - Pertemuan 11: Auth & Role
 - Pertemuan 12: CRUD Produk & Kategori
